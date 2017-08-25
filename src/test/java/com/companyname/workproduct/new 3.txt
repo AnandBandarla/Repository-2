@@ -1,0 +1,27 @@
+
+50.	Differences between Error, Defect and a Failure?
+QA test the system to find errors in the system this is usually in the dev environment.
+Defect is a scenario where the functionality does not meet the specifications or not working as expected. It is used in QA environment
+Failure is a mismatch in the functionality identified or reported by end user or in production environment
+
+
+49.	What are upstream and downstream systems?
+Upstream system: Systems that are providing or sending data/inputs to other systems.
+Downstream systems: Systems that are receiving data from other systems
+
+75.	What is ‘super’ keyword? ‘this’ keyword?
+‘super’ keyword is used to access method/member variables from the super class.
+‘this’ keyword is used to access method/member variables from current class.
+
+
+82.	What is Final modifier?
+Final makes the value cannot be changed anymore.
+Final keyword can be applied to Class, variable, method.
+It means for –
+	Class: no sub-classes
+	Variable: Value cannot be changed
+	Methods: cannot be overriden
+
+	83.	Static variable and Static methods?
+Static variable: class level variable. A single instance remains throughout the class.
+Static methods:
